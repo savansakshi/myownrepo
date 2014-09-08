@@ -1,0 +1,3 @@
+<?
+echo 'my first test';
+?>
